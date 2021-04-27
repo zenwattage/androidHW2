@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW2App</string>
+
+    <string name="textBox">Enter text: </string>
+    <string name="sendBtn">Send</string>
+    <string name="nwBtn">North West</string>
+    <string name="pacBtn">Pacific</string>
+    <string name="usaBtn">USA</string>
+    <string name="earthBtn">Earth</string>
+</resources>
